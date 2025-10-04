@@ -51,4 +51,4 @@ Run index.html in your browser to start exploring the project.
 📸 Preview
 
 ### 🏠 Homepage
-![Homepage](assets/screenshots/home.png)
+![Homepage]([assets/screenshots/home.pn](https://github.com/sujal012/Amazon-clone-web/issues/1#issue-3483253765))
