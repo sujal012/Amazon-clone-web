@@ -37,18 +37,3 @@ amazon-clone/
 └── assets/
     └── images/          # Product and UI images
 
-💡 How to Run
-
-Clone this repository:
-
-git clone https://github.com/sujal012/amazon-clone-frontend.git
-
-
-Open the folder in your code editor.
-
-Run index.html in your browser to start exploring the project.
-
-📸 Preview
-
-### 🏠 Homepage
-![Homepage](home.png)
