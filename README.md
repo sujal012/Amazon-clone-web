@@ -41,7 +41,7 @@ amazon-clone/
 
 Clone this repository:
 
-git clone https://github.com/yourusername/amazon-clone-frontend.git
+git clone https://github.com/sujal012/amazon-clone-frontend.git
 
 
 Open the folder in your code editor.
