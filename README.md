@@ -37,3 +37,10 @@ amazon-clone/
 └── assets/
     └── images/          # Product and UI images
 
+
+
+
+
+
+    
+
